@@ -1,0 +1,17 @@
+/home/lisa/workspace/Cermin/web/backend/mark1/src/main/java/com/mark1/repository/core/UserRepository.java
+/home/lisa/workspace/Cermin/web/backend/mark1/src/main/java/com/mark1/service/CategoryService.java
+/home/lisa/workspace/Cermin/web/backend/mark1/src/main/java/com/mark1/config/ApplicationConfig.java
+/home/lisa/workspace/Cermin/web/backend/mark1/src/main/java/com/mark1/entity/core/Role.java
+/home/lisa/workspace/Cermin/web/backend/mark1/src/main/java/com/mark1/entity/core/DefaultPersistence.java
+/home/lisa/workspace/Cermin/web/backend/mark1/src/main/java/com/mark1/service/RestCategoryService.java
+/home/lisa/workspace/Cermin/web/backend/mark1/src/main/java/com/mark1/service/RoleService.java
+/home/lisa/workspace/Cermin/web/backend/mark1/src/main/java/com/mark1/config/JPAConfig.java
+/home/lisa/workspace/Cermin/web/backend/mark1/src/main/java/com/mark1/repository/CategoryRepository.java
+/home/lisa/workspace/Cermin/web/backend/mark1/src/main/java/com/mark1/Main.java
+/home/lisa/workspace/Cermin/web/backend/mark1/src/main/java/com/mark1/entity/core/User.java
+/home/lisa/workspace/Cermin/web/backend/mark1/src/main/java/com/mark1/entity/core/LogInformation.java
+/home/lisa/workspace/Cermin/web/backend/mark1/src/main/java/com/mark1/service/RestRoleService.java
+/home/lisa/workspace/Cermin/web/backend/mark1/src/main/java/com/mark1/service/UserService.java
+/home/lisa/workspace/Cermin/web/backend/mark1/src/main/java/com/mark1/service/RestUserService.java
+/home/lisa/workspace/Cermin/web/backend/mark1/src/main/java/com/mark1/entity/Category.java
+/home/lisa/workspace/Cermin/web/backend/mark1/src/main/java/com/mark1/repository/RoleRepository.java
